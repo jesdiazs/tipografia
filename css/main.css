@@ -1,0 +1,39 @@
+body{
+	margin-top: 0;
+	padding: 0;
+}
+div{
+	background-color: #E8DAEF;
+	height: 350px;
+	width: 220px;
+	float:left;
+	margin: 5px;
+	text-align: center; 
+	border-radius: 15px;  
+}
+div:hover {
+	border: 8px outset;
+	transition-duration: 1s;
+    box-shadow: 2px 2px 5px 0px gray;
+}
+span:hover{
+	background-color: #BB8FCE;
+}
+@font-face{
+	font-family: 'Ravi Prakash', cursive;
+	font-family: 'Dancing Script', cursive;
+	font-family: 'Monoton', cursive;
+	font-family: 'Kavoon', cursive;
+	src:https://fonts.googleapis.com/css?family=Dancing+Script|Kavoon|Monoton|Ravi+Prakash" rel="stylesheet
+}
+h3{
+	font-family: 'Monoton', cursive;
+}
+	
+h5{
+	font-family: 'Ravi Prakash', cursive;
+}
+p{
+	font-family: 'Dancing Script', cursive;
+}
+
